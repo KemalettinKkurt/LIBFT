@@ -21,3 +21,5 @@ size_t	ft_strlen(const char *a)
 		i++;
 	return (i);
 }
+
+
